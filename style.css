@@ -1,0 +1,40 @@
+h1{
+    color: whitesmoke;
+    font-size: 60px;
+}
+div{
+    font-size: 20px;
+    font-weight:bold;
+}
+body{
+    justify-content: center;
+    text-align: center ;
+    background-image: url(../ex2/img/LOL.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top ;
+    
+}
+label{
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 40px;
+   }
+input{
+      color: darkblue;
+ border-color:aqua;
+}
+  textarea{
+    border-color:aqua;
+   
+    
+  }
+  h7{
+      color: white;
+  }
+
+  
+
